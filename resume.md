@@ -3,7 +3,7 @@ Joshua Turner
 
 #### Undergraduate Student, [Department of Geography and Planning](http://geo.appstate.edu), Appalachian State University. Boone, North Carolina, USA
 
-<img src="images/turnerjt.jpg">
+<img src="images/turnerjt.jpg"> 
 
 Expertise
 --
